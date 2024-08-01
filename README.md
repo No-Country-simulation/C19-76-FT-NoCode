@@ -13,8 +13,12 @@
 
 <dl>
   <dd>
-    🔸 <b>UX:</b>
+    🔸 <b>UX research:</b>
     <a href="__">[ Link a Figma ]</a>
+   </dd>
+  <dd>
+    🔸 <b>Síntesis de Entrevistas y User Personas:</b>
+    <a href="https://miro.com/app/board/uXjVKzFaLmk=/">[ Link a Miró ]</a>
    </dd>
   <dd>
     🔸 <b>Diseño UI:</b>
