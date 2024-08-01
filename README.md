@@ -5,7 +5,7 @@
   </div>
 
 <h1 align='center'>BuscaPsi</h1>
-<p align='center'><strong>Nuestro propósito es tu salud</strong></p>
+<p align='center'><b>Nuestro propósito es tu salud</b></p>
 
 <p align='center'>Repositorio No Code para el Equipo C19-76-FT</p> 
 
@@ -27,13 +27,13 @@
 
 <h3 align='left'><strong>Metodología de investigación</strong></h3> 
 
-<p align='left'>Para efectos de este trabajo, se utilizó la <strong>metodología de Doble Diamante</strong>, la cual consiste en descubrir, definir, desarrollar y entregar.</p> 
+<p align='left'>Para efectos de este trabajo, se utilizó la <b>metodología de Doble Diamante</b>, la cual consiste en descubrir, definir, desarrollar y entregar.</p> 
 
-<p align='left'>En la etapa de <strong>descubrir</strong>, revisamos el contexto de la salud mental en Latinoamérica, las barreras en la búsqueda de ayuda profesional y cómo esto llevó a nuestro objetivo. Se realizaron encuestas y entrevistas en esta etapa.</p> 
+<p align='left'>En la etapa de <b>descubrir</b>, revisamos el contexto de la salud mental en Latinoamérica, las barreras en la búsqueda de ayuda profesional y cómo esto llevó a nuestro objetivo. Se realizaron encuestas y entrevistas en esta etapa.</p> 
 
-<p align='left'>En la etapa de <strong>definir</strong>, trabajamos con mapas de empatía, user personas, historias de usuarios y benchmarks para ayudarnos a ver nuestros usuarios ideales (pacientes y especialistas), saber qué desean y revisar cuáles son otras páginas web dedicadas al mismo tema, para guiarnos en quién podría ser nuestra referencia y cómo mejorar su propuesta.</p> 
+<p align='left'>En la etapa de <b>definir</b>, trabajamos con mapas de empatía, user personas, historias de usuarios y benchmarks para ayudarnos a ver nuestros usuarios ideales (pacientes y especialistas), saber qué desean y revisar cuáles son otras páginas web dedicadas al mismo tema, para guiarnos en quién podría ser nuestra referencia y cómo mejorar su propuesta.</p> 
 
-<p align='left'>En la etapa de <strong>desarrollar</strong>, intentaremos proporcionar una solución al problema, demostrado mediante prototipado de baja y alta fidelidad.</p>
+<p align='left'>En la etapa de <b>desarrollar</b>, intentaremos proporcionar una solución al problema, demostrado mediante prototipado de baja y alta fidelidad.</p>
 
-<p align='left'>Por cuestiones de tiempo y de recursos, no se demuestra una etapa de testeo en este trabajo. Sin embargo, de ser posible, se utilizarían <strong>test de guerrilla y focus group</strong> para revisar si, en efecto, la solución entregada responde a las necesidades de los usuarios.</p> 
+<p align='left'>Por cuestiones de tiempo y de recursos, no se demuestra una etapa de testeo en este trabajo. Sin embargo, de ser posible, se utilizarían <b>test de guerrilla y focus group</b> para revisar si, en efecto, la solución entregada responde a las necesidades de los usuarios.</p> 
 
