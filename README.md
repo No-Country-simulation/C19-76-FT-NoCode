@@ -25,7 +25,7 @@
     <a href="https://www.figma.com/design/uJA4HS4Mq3BLgxyepRSF7b/Presentaci%C3%B3n-final-UX%2FUI-NoCountry?node-id=0-1&t=8mpCwgV7dmnZF4En-0">[ Link a Figma ]</a>
      </dd>
 
-<h3 align='left'><strong>Metodología de investigación</strong></h3> 
+## Metodología de investigación
 
 <p align='left'>Para efectos de este trabajo, se utilizó la <b>metodología de Doble Diamante</b>, la cual consiste en descubrir, definir, desarrollar y entregar.</p> 
 
@@ -37,3 +37,36 @@
 
 <p align='left'>Por cuestiones de tiempo y de recursos, no se demuestra una etapa de testeo en este trabajo. Sin embargo, de ser posible, se utilizarían <b>test de guerrilla y focus group</b> para revisar si, en efecto, la solución entregada responde a las necesidades de los usuarios.</p> 
 
+## Tecnologías utilizadas
+
+<dd>
+    🔸 <b>Figma</b>
+  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="50" width="50" src="https://skillicons.dev/icons?i=figma"/>
+  </a>
+  </p>
+</dd>
+
+ <dd>
+    🔸 <b>Miró</b>
+   
+  <p align="left">
+      <img height="50" width="50" src="https://miro.com/app/static/13f30ff361b8cb0f.svg"/>
+  </p>
+</dd>
+
+<dd>
+    🔸 <b>Google Forms</b>
+   
+  <p align="left">
+    <img height="50" width="50" src="https://kstatic.googleusercontent.com/files/9f04faac24aed8bf8fb381029de951128d1d36373f89675265a6654d0c47b74b2d83a26b68b834ce2eea3bfe8001966f76895888138f135a81d099fc207c73bb"/>
+  </p>
+</dd>
+
+## Colaboradores del Proyecto
+
+- UX: Gabriela Seligmann
+- UX: Valentina Maire
+- UI: Tomás Scala
