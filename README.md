@@ -13,11 +13,11 @@
 
 <dl>
   <dd>
-    🔸 <b>UX 👩‍💻:</b>
+    🔸 <b>UX:</b>
     <a href="__">[ Link a Figma ]</a>
    </dd>
   <dd>
-    🔸 <b>Diseño UI 🎨:</b>
+    🔸 <b>Diseño UI:</b>
     <a href="__">[ Link a Figma ]</a>
    </dd>
      <dd>
