@@ -25,7 +25,7 @@
     <a href="https://www.figma.com/design/uJA4HS4Mq3BLgxyepRSF7b/Presentaci%C3%B3n-final-UX%2FUI-NoCountry?node-id=0-1&t=8mpCwgV7dmnZF4En-0">[ Link a Figma ]</a>
      </dd>
 
-<p align='left'><strong>Metodología de investigación</strong></p> 
+<h3 align='left'><strong>Metodología de investigación</strong></h3> 
 
 <p align='left'>Para efectos de este trabajo, se utilizó la <strong>metodología de Doble Diamante</strong>, la cual consiste en descubrir, definir, desarrollar y entregar.</p> 
 
