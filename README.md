@@ -20,6 +20,10 @@
     🔸 <b>Diseño UI 🎨:</b>
     <a href="__">[ Link a Figma ]</a>
    </dd>
+     <dd>
+    🔸 <b>Presentación para NoCountry:</b>
+    <a href="https://www.figma.com/design/uJA4HS4Mq3BLgxyepRSF7b/Presentaci%C3%B3n-final-UX%2FUI-NoCountry?node-id=0-1&t=8mpCwgV7dmnZF4En-0">[ Link a Figma ]</a>
+     </dd>
 
 <p align='left'><strong>Metodología de investigación</strong></p> 
 
