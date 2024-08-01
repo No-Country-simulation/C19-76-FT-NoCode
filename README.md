@@ -9,7 +9,7 @@
 
 <p align='center'>Repositorio No Code para el Equipo C19-76-FT</p> 
 
-<p align='left'>Este repositorio es para documentar el proceso de investigación UX/UI para armar una página web dedicada a la salud mental.</p> 
+<p align='center'>Este repositorio es para documentar el proceso de investigación UX/UI para armar una página web dedicada a la salud mental.</p> 
 
 <dl>
   <dd>
