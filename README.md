@@ -14,7 +14,7 @@
 <dl>
   <dd>
     🔸 <b>UX research:</b>
-    <a href="__">[ Link a Figma ]</a>
+    <a href="https://www.figma.com/design/uoFGsxaJwlhp0DhBc9riTI/NoCountry-UX-Research?node-id=1-235&t=RGWgr2OT9joYvzFH-0">[ Link a Figma ]</a>
    </dd>
   <dd>
     🔸 <b>Síntesis de Entrevistas y User Personas:</b>
@@ -22,7 +22,7 @@
    </dd>
   <dd>
     🔸 <b>Diseño UI:</b>
-    <a href="__">[ Link a Figma ]</a>
+    <a href="https://www.figma.com/design/SCTA3klCBrnVSQrSJ4sdaE/NoCountry-nocode-UXUI?node-id=350-5180&t=bJDbUfDni1U3aZWf-0">[ Link a Figma ]</a>
    </dd>
      <dd>
     🔸 <b>Presentación para NoCountry:</b>
